@@ -93,7 +93,7 @@ nav ul li a {
 /* Hero Section */
 .hero {
     position: relative;
-    background: url('/photo/Banner.png') no-repeat center center/cover;
+    background: url('./photo/Banner.png') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 90px 20px;
